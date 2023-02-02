@@ -1,0 +1,41 @@
+h3{
+    color: brown;
+}
+
+*{
+    /* color: green; */
+    
+}
+
+h3{
+    text-align: center;
+    color: black;
+}
+
+a[title="google"]{
+    color: blue;
+}
+
+#idselector{
+    color: blue;
+}
+
+.classdelector{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 30px;
+    color: blueviolet;
+    word-spacing: 10px;
+    text-transform: uppercase;
+}
+
+
+
+.descendent a{
+    color: red;
+}
+
+
+.descendent > a{
+    text-decoration: none;
+}
